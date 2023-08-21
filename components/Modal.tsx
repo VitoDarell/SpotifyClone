@@ -73,6 +73,7 @@ const Modal: React.FC<ModalProps> = ({
                     </div>
                     <Dialog.Close asChild>
                         <button 
+                            // TODO: implement the close button
                             className="
                                 text-neutral-400
                                 hover:text-white
